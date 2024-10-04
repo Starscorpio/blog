@@ -1,21 +1,3 @@
----
-id: 3484
-title: 'Hackthebox &#8211; Jerry'
-date: '2022-04-15T09:56:47+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Jerry" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3484'
-permalink: /hackthebox-jerry/
-powerkit_share_buttons_transient_facebook:
-    - '1692134032'
-powerkit_share_buttons_transient_pinterest:
-    - '1727924396'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-12.09.08-PM-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-12.08.09-PM.png)
 
 IP: 10.10.10.105
