@@ -1,4 +1,4 @@
-# [Bastion](/blog/posts/bastion.md)
+# [Bastion](/bastion.md)
 
 # [Blocky](/blog/posts/blocky.md)
 
