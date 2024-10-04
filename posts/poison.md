@@ -1,21 +1,3 @@
----
-id: 3456
-title: 'Hackthebox &#8211; Poison'
-date: '2022-04-15T07:57:58+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Poison" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3456'
-permalink: /hackthebox-poison/
-powerkit_share_buttons_transient_facebook:
-    - '1692134041'
-powerkit_share_buttons_transient_pinterest:
-    - '1727946369'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-2.26.57-PM-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-2.25.58-PM.png)
 
 IP: 10.10.10.84
