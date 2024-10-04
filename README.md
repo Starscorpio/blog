@@ -1,6 +1,6 @@
 # Starscop1o - Security Blog
 
 
-## [Hackthebox](/posts/bounty.md)
+## [Hackthebox](/posts/)
 
 ## Security Research
