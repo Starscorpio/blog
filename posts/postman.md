@@ -1,21 +1,3 @@
----
-id: 3565
-title: 'Hackthebox &#8211; Postman'
-date: '2022-04-15T12:49:06+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Postman" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3565'
-permalink: /hackthebox-postman/
-powerkit_share_buttons_transient_facebook:
-    - '1692134044'
-powerkit_share_buttons_transient_pinterest:
-    - '1727981583'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-2.42.07-PM1-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-11.33.14-AM.png)
 
 IP: 10.10.10.160
