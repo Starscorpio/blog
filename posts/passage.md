@@ -1,21 +1,3 @@
----
-id: 3544
-title: 'Hackthebox &#8211; Passage'
-date: '2022-04-15T12:35:39+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Passage" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3544'
-permalink: /hackthebox-passage/
-powerkit_share_buttons_transient_facebook:
-    - '1692134038'
-powerkit_share_buttons_transient_pinterest:
-    - '1727901985'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-11.44.31-AM-1-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-11.40.54-AM.png)
 
 IP: 10.10.10.126
