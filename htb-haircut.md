@@ -8,9 +8,7 @@
 
 ## Enumeration
 
-Doing a simple nmap scan using command:
-
-### Using nmap to scan open ports
+#### Using nmap to scan for open ports
 ```bash
 nmap -sC -sV -O -oA nmap/haircut 10.10.10.24
 ```
@@ -38,22 +36,30 @@ It can be seen that there was a curl request being made. Hence, we could use cur
 
 After setting up a listener, we get a user shell!
 
-`listening on [any] 9001 …<br></br>connect to [10.10.14.10] from (UNKNOWN) [10.10.10.24] 53864<br></br>bash: cannot set terminal process group (1249): Inappropriate ioctl for device<br></br>bash: no job control in this shell<br></br>www-data@haircut:~/html/uploads$ id<br></br>id<br></br>uid=33(www-data) gid=33(www-data) groups=33(www-data)`
+```bash
+listening on [any] 9001 …<br></br>connect to [10.10.14.10] from (UNKNOWN) [10.10.10.24] 53864<br></br>bash: cannot set terminal process group (1249): Inappropriate ioctl for device<br></br>bash: no job control in this shell<br></br>www-data@haircut:~/html/uploads$ id<br></br>id<br></br>uid=33(www-data) gid=33(www-data) groups=33(www-data)
+```
 
 ## Privilege Escalation
 
 After running LinEnum.sh, we could see that SUID bit was enabled for a unusual binary which was /usr/bin/screen-4.5.0:
 
-`--- -rwsr-xr-x 1 root root 1588648 May 19 2017 /usr/bin/screen-4.5.0`
+```bash
+--- -rwsr-xr-x 1 root root 1588648 May 19 2017 /usr/bin/screen-4.5.0
+```
 
 Googling the binary, we find that there is a local privesc exploit available. Hence, we followed the instructions and made libhax.c libhax.so rootshell and rootshell.c and setup a web server and transferred the file over to the victim machine.
 
 Running the commands as given in the exploit, we get a ROOT shell!!!
 
-`cd /root`
+```bash
+cd /root
+```
 
+```bash
 ls  
-`root.txt`
+root.txt
+```
 
 `cat root.txt<br></br>4c...........................`
 
