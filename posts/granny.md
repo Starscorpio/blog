@@ -1,21 +1,3 @@
----
-id: 3494
-title: 'Hackthebox &#8211; Granny'
-date: '2022-04-15T10:38:28+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Granny" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3494'
-permalink: /hackthebox-granny/
-powerkit_share_buttons_transient_facebook:
-    - '1692134027'
-powerkit_share_buttons_transient_pinterest:
-    - '1727913649'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/grannt-img-496x279.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-12.04.56-PM.png)
 
 IP: 10.10.10.15, Microsoft IIS httpd 6.0 – Windows server 2003
