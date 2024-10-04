@@ -1,21 +1,3 @@
----
-id: 3510
-title: 'Hackthebox &#8211; Bastion'
-date: '2022-04-15T11:37:33+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Bastion" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3510'
-permalink: /hackthebox-bastion/
-powerkit_share_buttons_transient_facebook:
-    - '1692134016'
-powerkit_share_buttons_transient_pinterest:
-    - '1727997135'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-12.02.07-PM-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-12.01.15-PM.png)
 
 IP: 10.10.10.134
