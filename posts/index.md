@@ -1,21 +1,21 @@
-# [Bastion](/posts/bastion.md)
+# [Bastion](/blog/posts/bastion.md)
 
-# [Blocky](/posts/blocky.md)
+# [Blocky](/blog/posts/blocky.md)
 
-# [Bounty](/posts/bounty.md)
+# [Bounty](/blog/posts/bounty.md)
 
-# [Granny](/posts/granny.md)
+# [Granny](/blog/posts/granny.md)
 
-# [Jerry](/posts/Jerry.md)
+# [Jerry](/blog/posts/Jerry.md)
 
-# [Lame](/posts/Lame.md)
+# [Lame](/blog/posts/Lame.md)
 
-# [Passage](/posts/passage.md)
+# [Passage](/blog/posts/passage.md)
 
-# [Poison](/posts/poison.md)
+# [Poison](/blog/posts/poison.md)
 
-# [Postman](/posts/postman.md)
+# [Postman](/blog/posts/postman.md)
 
-# [Tabby](/posts/tabby.md)
+# [Tabby](/blog/posts/tabby.md)
 
-# [Test](/posts/test.md)
+# [Test](/blog/posts/test.md)
