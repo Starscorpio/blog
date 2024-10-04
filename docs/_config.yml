@@ -15,4 +15,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - htb-haircut.md
   - /posts/
-  - 2022-04-15-hackthebox-bounty.md
+  - bounty.md
