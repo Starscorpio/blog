@@ -1,21 +1,3 @@
----
-id: 3532
-title: 'Hackthebox &#8211; Tabby'
-date: '2022-04-15T12:07:30+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Tabby" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3532'
-permalink: /hackthebox-tabby/
-powerkit_share_buttons_transient_facebook:
-    - '1692134049'
-powerkit_share_buttons_transient_pinterest:
-    - '1727803909'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-22-at-3.28.45-PM-1-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-11.21.40-AM.png)
 
 IP addr: 10.10.10.194,
