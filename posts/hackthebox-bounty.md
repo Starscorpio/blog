@@ -1,21 +1,3 @@
----
-id: 3472
-title: 'Hackthebox &#8211; Bounty'
-date: '2022-04-15T08:26:52+00:00'
-author: vedanttare
-excerpt: 'In this post, we are going to be pwning "Bounty" from Hackthebox.'
-layout: post
-guid: 'http://vedanttare.com/?p=3472'
-permalink: /hackthebox-bounty/
-powerkit_share_buttons_transient_facebook:
-    - '1692134024'
-powerkit_share_buttons_transient_pinterest:
-    - '1728079652'
-image: 'http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-2.23.32-PM-496x166.png'
-categories:
-    - Writeups
----
-
 ![](http://vedanttare.com/wp-content/uploads/2022/04/Screenshot-2022-09-25-at-2.22.28-PM.png)
 
 **IP address: 10.10.10.93**
