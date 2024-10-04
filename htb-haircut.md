@@ -10,6 +10,7 @@
 
 Doing a simple nmap scan using command:
 
+### Using nmap to scan open ports
 ```bash
 nmap -sC -sV -O -oA nmap/haircut 10.10.10.24
 ```
