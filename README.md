@@ -1,6 +1,6 @@
 # Starscop1o - Security Blog
 
 
-## [Hackthebox](/posts/)
+## [Hackthebox](/posts/index.md)
 
 ## Security Research
