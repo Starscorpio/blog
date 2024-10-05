@@ -1,6 +1,6 @@
-# [Bastion](/posts/bastion.md)
+# [Bastion](posts/bastion.md)
 
-# [Blocky](/posts/blocky.md)
+# [Blocky](posts/blocky.md)
 
 # [Bounty](/posts/bounty.md)
 
